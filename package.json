@@ -1,1 +1,17 @@
-{"name":"ethioinvest","version":"1.0.0","main":"setup-db.js","scripts":{"start":"node setup-db.js"},"type":"commonjs","dependencies":{"dotenv":"^17.4.2","express":"^5.2.1","pg":"^8.22.0"}}
+
+{
+  "name": "ethioinvest",
+  "version": "1.0.0",
+  "main": "setup-db.js",
+  "scripts": {
+    "start": "node setup-db.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.22.0"
+  }
+}
+
