@@ -1,1 +1,1 @@
-{"name": "ethioinvest", "version": "1.0.0", "main": "setup-db.js", "scripts": {"start": "node setup-db.js"}, "type": "commonjs"}
+{"name":"ethioinvest","version":"1.0.0","main":"setup-db.js","scripts":{"start":"node setup-db.js"},"type":"commonjs","dependencies":{"express":"^5.2.1","pg":"^8.22.0"}}
